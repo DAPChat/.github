@@ -1,6 +1,8 @@
-# WHO GOES THERE???
+# I WELCOME THEE!
 
 We're a friend duo who have big ideas and some skills to back it up. We learn eventually.
+
+[LEPA4 - Anthony](https://github.com/LEPA4)
 
 ### DAPChat
 
