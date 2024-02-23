@@ -1,6 +1,10 @@
 # WHO GOES THERE???
 
-DAPChat originally started as a small chat software in Node.JS until Replit discontinued hosting. The chat was riddled with bugs yet had impressive features that included an server-independent economy with skills, titles, backgrounds, and themes to name a few. It featured a quest system that rewarded players for staying active and for using the other features. The chat included many games that could grant rewards such as a casino, reaction-time game, and memory game.
+We're a friend duo who have big ideas and some skills to back it up. We learn eventually.
+
+### DAPChat
+
+DAPChat originally started as a small chat software in Node.JS until Replit discontinued hosting. The chat was riddled with bugs yet had impressive features that included a cross-server economy with skills, titles, backgrounds, and themes (to name a few). It featured a quest system that rewarded players for staying active and for using the other features. The chat included many games that could grant rewards such as a casino, reaction-time game, and memory game.
 
 While the DAPChat code is privated and the chat is no longer available, the intelligent and handsome programmers were not stopped from making new and imaginitive projects.
 
