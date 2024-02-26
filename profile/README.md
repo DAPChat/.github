@@ -25,3 +25,6 @@ We strive to create a game with realistic physics and smooth multiplayer connect
 For each of these, we created a planning document, yet the DCG one became almost obsolete as we had to adjust the scope of the project as we went. We may publish the DIRO one after it's completed and the scope is managed.
 
 Give suggestions.
+
+ADIOS,
+ANTHONY
